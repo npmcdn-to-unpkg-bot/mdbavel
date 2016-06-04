@@ -1,0 +1,21 @@
+{
+  "name": "formwizard",
+  "version": "6.0.0",
+  "authors": [
+    "Jonathan Gravois <jongravois@gmail.com>"
+  ],
+  "description": "jQuery Plugin",
+  "main": "wizard/wizard.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "pages"
+  ],
+  "dependencies": {}
+}

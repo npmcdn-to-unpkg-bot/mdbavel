@@ -1,0 +1,41 @@
+{
+  "name": "Dash",
+  "version": "2.0.0",
+  "authors": [
+    "Keri Wright {keri@uaminc.com>",
+    "Tracy Andrews <tandrews@uaminc.com>",
+    "Jon Gravois <jgravois@uaminc.com>"
+  ],
+  "description": "The Digital Walls",
+  "main": "http://www.my-uam.com",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "http://www.my-uam.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "install": {
+    "path": "js"
+  },
+  "dependencies": {
+    "bootstrap": "~4.0",
+    "font-awesome": "fontawesome#~4.6.3",
+    "lodash": "~3.10.1",
+    "toastr": "^2.1.2",
+    "moment": "^2.11.2",
+    "numeral": "^1.5.3",
+    "Chart.js": "*",
+    "typeahead.js": "^0.11.1",
+    "masonry": "^4.0.0",
+    "formwizard": "jwg_form_wizard#*",
+    "jquery.marquee": "jQuery.Marquee#^1.3.9"
+  },
+  "devDependencies": {
+    "pusher": "^3.0.0"
+  }
+}

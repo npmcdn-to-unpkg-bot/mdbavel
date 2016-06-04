@@ -1,0 +1,29 @@
+{
+  "name": "formwizard",
+  "authors": [
+    "Jonathan Gravois <jongravois@gmail.com>"
+  ],
+  "description": "jQuery Plugin",
+  "main": "wizard/wizard.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "https://github.com/jongravois/formwizard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "pages"
+  ],
+  "dependencies": {},
+  "_release": "954656c816",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "954656c81648674aa5b13b853dd7ed3291928239"
+  },
+  "_source": "https://github.com/jongravois/formwizard.git",
+  "_target": "*",
+  "_originalSource": "jwg_form_wizard"
+}
